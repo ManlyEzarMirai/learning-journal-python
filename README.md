@@ -1,2 +1,2 @@
-# learning-journal-python
+# Python-Project
 learn to earn
