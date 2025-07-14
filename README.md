@@ -1,2 +1,2 @@
 # learning-journal-python
-proyek gabut
+learn to earn
